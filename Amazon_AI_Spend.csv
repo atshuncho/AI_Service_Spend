@@ -1,0 +1,600 @@
+﻿Environment,Account,invoice_date,Description,region,Product Name,vendor,Service Name,Usage Type,Team,Sub-Team,Cost Before Uplifts ($)
+dev,64661311,01/11/2023,Amazon Textract 1,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.12
+dev,64661311,01/11/2023,Amazon Textract 1,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.16
+Innovation,10349524,01/11/2023,Amazon Textract 1,us-east-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.2
+dev,64661311,01/11/2023,Amazon Textract 1,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.25
+dev,64661311,01/11/2023,Amazon Textract 1,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.29
+Innovation,10349524,01/11/2023,Amazon Textract 3,us-east-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.36
+dev,64661311,01/11/2023,Amazon Textract 3,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.45
+Innovation,10349524,01/11/2023,Amazon Textract 3,us-east-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.59
+Innovation,10349524,01/11/2023,Amazon Textract 3,us-east-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.59
+Innovation,10349524,01/11/2023,Amazon Textract 3,us-east-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.68
+Innovation,10349524,01/11/2023,Amazon Textract 3,us-east-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.7
+prod,50168945,01/11/2023,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,3.27
+dev,50168945,01/11/2023,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,4.29
+dev,50168945,01/11/2023,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,6.88
+prod,50168945,01/11/2023,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,11.46
+dev,50168945,01/11/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,18.79
+dev,50168945,01/11/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,26.48
+pre-prod,50168945,01/11/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,30.68
+Innovation,11519995,01/11/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,31.38
+pre-prod,50168945,01/11/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,33.09
+pre-prod,50168945,01/11/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,37.69
+Innovation,85490345,01/11/2023,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,42.82
+pre-prod,50168945,01/11/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,43.65
+dev,50168945,01/11/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,44.1
+pre-prod,50168945,01/11/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,46.65
+dev,50168945,01/11/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,47.24
+Innovation,11519995,01/11/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,49.42
+dev,25687158,01/11/2023,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,104.48
+Innovation,95317744,01/11/2023,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,123.42
+dev,83001455,01/11/2023,Amazon SageMaker more detail 2,eu-west-2,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,229.19
+dev,25687158,01/11/2023,Amazon SageMaker more detail 2,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,233.19
+dev,25687158,01/11/2023,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,264.41
+Innovation,54144176,01/11/2023,Amazon SageMaker more detail 3,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,327.41
+Innovation,85490345,01/11/2023,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,374.5
+Innovation,95317744,01/11/2023,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,444.67
+Innovation,85490345,01/11/2023,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,488.46
+dev,83001455,01/11/2023,Amazon SageMaker more detail 5,eu-west-2,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,570.36
+dev,83001455,01/11/2023,Amazon SageMaker more detail 5,eu-west-2,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,579.25
+Innovation,95317744,01/11/2023,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,620.17
+Innovation,54144176,01/11/2023,Amazon SageMaker more detail 6,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,685.3
+pre-prod,50168945,01/12/2023,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,6.41
+prod,50168945,01/12/2023,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,13.38
+pre-prod,50168945,01/12/2023,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,15.91
+dev,50168945,01/12/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,19.31
+pre-prod,50168945,01/12/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,24.27
+dev,50168945,01/12/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,25.24
+Innovation,11519995,01/12/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,26.19
+dev,50168945,01/12/2023,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,28.92
+prod,50168945,01/12/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,29.89
+pre-prod,50168945,01/12/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,34.32
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,35.6
+Innovation,11519995,01/12/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,37.37
+dev,50168945,01/12/2023,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,38.08
+prod,50168945,01/12/2023,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,38.48
+dev,50168945,01/12/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,42.41
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,42.6
+pre-prod,50168945,01/12/2023,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,44.44
+pre-prod,50168945,01/12/2023,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,48.88
+dev,50168945,01/12/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,50.22
+dev,50168945,01/12/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,52.36
+prod,50168945,01/12/2023,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,60.33
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,121.94
+Innovation,54144176,01/12/2023,Amazon SageMaker more detail 1,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,142.93
+Innovation,85490345,01/12/2023,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,154.12
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,163.26
+dev,25687158,01/12/2023,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,259.8
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 3,us-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,266.04
+Innovation,85490345,01/12/2023,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,335.21
+Innovation,85490345,01/12/2023,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,348.04
+Innovation,54144176,01/12/2023,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,364.4
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,397.17
+Innovation,54144176,01/12/2023,Amazon SageMaker more detail 4,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,400.05
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 4,us-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,436.27
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,438.75
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,443.73
+Innovation,85490345,01/12/2023,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,494.75
+dev,25687158,01/12/2023,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,523.84
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 5,us-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,539.38
+Innovation,85490345,01/12/2023,Amazon SageMaker more detail 5,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,543.68
+dev,25687158,01/12/2023,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,570.86
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,576.62
+dev,25687158,01/12/2023,Amazon SageMaker more detail 5,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,579.12
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,643.31
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,664.92
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,705
+dev,25687158,01/12/2023,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,707.92
+Innovation,95317744,01/12/2023,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,722.62
+dev,60317158,01/01/2024,Amazon Textract 1,ap-south-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.16
+dev,60317158,01/01/2024,Amazon Textract 1,ap-south-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.22
+dev,60317158,01/01/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.34
+dev,60317158,01/01/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.38
+dev,60317158,01/01/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.39
+dev,60317158,01/01/2024,Amazon Textract 3,ap-south-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.59
+dev,60317158,01/01/2024,Amazon Textract 3,ap-south-1,Amazon Textract,Amazon,,,Treasury,Capital Catalysts,0.65
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,2.1
+pre-prod,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,4.05
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,4.12
+pre-prod,50168945,01/01/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,5.39
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-2,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,9.51
+pre-prod,50168945,01/01/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,11.97
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,12.49
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,13.11
+prod,50168945,01/01/2024,Amazon Rekognition more detail 1,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,13.43
+prod,50168945,01/01/2024,Amazon Rekognition more detail 1,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,13.47
+prod,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,13.99
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,15.07
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-2,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,15.43
+pre-prod,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,16.68
+dev,50168945,01/01/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,17.4
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,18.68
+Innovation,11519995,01/01/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,19.51
+dev,50168945,01/01/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,20.52
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,23.09
+dev,50168945,01/01/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,31.1
+pre-prod,50168945,01/01/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,34.28
+dev,50168945,01/01/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,35.76
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,37.52
+Innovation,85490345,01/01/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,39.76
+dev,50168945,01/01/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,40.17
+dev,50168945,01/01/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,49.43
+pre-prod,50168945,01/01/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,50.57
+dev,50168945,01/01/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,52.06
+Innovation,11519995,01/01/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,54.91
+dev,50168945,01/01/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,55.34
+prod,50168945,01/01/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,57.24
+prod,50168945,01/01/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,60.02
+dev,25687158,01/01/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,63.66
+Innovation,85490345,01/01/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,90.95
+Innovation,85490345,01/01/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,96.85
+Innovation,54144176,01/01/2024,Amazon SageMaker more detail 1,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,118.4
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,127.83
+dev,25687158,01/01/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,140.94
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 2,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,206.28
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 2,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,235.34
+dev,25687158,01/01/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,267.07
+dev,25687158,01/01/2024,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,268.57
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,276.55
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,278.82
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,289.93
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,308.63
+Innovation,85490345,01/01/2024,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,313.28
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,321.66
+Innovation,54144176,01/01/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,376.9
+Innovation,85490345,01/01/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,401.51
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,423.9
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,573.51
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,586.16
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,645.53
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,657.73
+Innovation,95317744,01/01/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,696.82
+dev,25687158,01/01/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,698.06
+Innovation,54144176,01/01/2024,Amazon SageMaker more detail 6,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,704.52
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,us-east-1,Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.02
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,us-east-1,Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.02
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 2,(not set),Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.02
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,us-east-1,Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.03
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 2,(not set),Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.04
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,us-east-1,Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.05
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,us-east-1,Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.06
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,us-east-1,Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.06
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,us-east-1,Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.06
+Innovation,45260537,01/02/2024,Amazon Bedrock more detail 1,(not set),Amazon Bedrock,Amazon,,,TE Tech,Risk Regulators,0.06
+dev,64661311,01/02/2024,Amazon Textract 1,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Global,0.18
+dev,64661311,01/02/2024,Amazon Textract 3,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.31
+dev,64661311,01/02/2024,Amazon Textract 3,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.34
+dev,64661311,01/02/2024,Amazon Textract 3,us-east-2,Amazon Textract,Amazon,,,Treasury,Treasury Global,0.6
+dev,64661311,01/02/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Global,0.65
+dev,50168945,01/02/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,2.63
+prod,50168945,01/02/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,3.91
+dev,50168945,01/02/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,4.14
+dev,50168945,01/02/2024,Amazon Rekognition more detail 1,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,5.94
+pre-prod,50168945,01/02/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,8.89
+pre-prod,50168945,01/02/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,10.35
+dev,50168945,01/02/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,10.67
+prod,50168945,01/02/2024,Amazon Rekognition more detail 1,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,13.82
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,17.75
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,18.41
+Innovation,95317744,01/02/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,19.63
+Innovation,11519995,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,28.98
+pre-prod,50168945,01/02/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,35.03
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,40.58
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,41.91
+Innovation,11519995,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,42.24
+pre-prod,50168945,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,43.33
+prod,50168945,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,44.14
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,45.87
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,48.33
+prod,50168945,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,49.8
+dev,32174238,01/02/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,52.21
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,52.23
+pre-prod,50168945,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,53.23
+prod,50168945,01/02/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,55.03
+pre-prod,50168945,01/02/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,56.55
+prod,50168945,01/02/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,59.14
+dev,50168945,01/02/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,59.91
+Innovation,11519995,01/02/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,60.71
+Innovation,95317744,01/02/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,80.86
+dev,25687158,01/02/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,99.77
+Innovation,45260537,01/02/2024,Amazon SageMaker more detail 1,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,103.05
+dev,25687158,01/02/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,113.95
+Innovation,45260537,01/02/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,136.51
+Innovation,45260537,01/02/2024,Amazon SageMaker more detail 1,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,161.35
+dev,25687158,01/02/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,165.47
+dev,32174238,01/02/2024,Amazon SageMaker more detail 2,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,171.25
+Innovation,45260537,01/02/2024,Amazon SageMaker more detail 2,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,177.85
+dev,32174238,01/02/2024,Amazon SageMaker more detail 2,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,179.71
+dev,32174238,01/02/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,256.83
+dev,25687158,01/02/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,258.19
+Innovation,85490345,01/02/2024,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,283.72
+Innovation,54144176,01/02/2024,Amazon SageMaker more detail 3,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,285.53
+Innovation,54144176,01/02/2024,Amazon SageMaker more detail 3,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,333.83
+Innovation,85490345,01/02/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,362.07
+Innovation,95317744,01/02/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,381.71
+Innovation,85490345,01/02/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,383.18
+Innovation,85490345,01/02/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,421.48
+Innovation,95317744,01/02/2024,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,430.59
+Innovation,95317744,01/02/2024,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,441.07
+Innovation,45260537,01/02/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,455.61
+Innovation,54144176,01/02/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,459.14
+Innovation,95317744,01/02/2024,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,494.87
+dev,32174238,01/02/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,603.11
+Innovation,45260537,01/02/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,603.97
+Innovation,45260537,01/02/2024,Amazon SageMaker more detail 5,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,614.44
+dev,32174238,01/02/2024,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,618.27
+dev,32174238,01/02/2024,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,619.96
+Innovation,85490345,01/02/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,649.39
+dev,25687158,01/02/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,703.8
+Innovation,95317744,01/02/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,704.39
+dev,32174238,01/02/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,721.49
+dev,32174238,01/02/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,724.61
+dev,83001455,01/03/2024,Amazon Textract 1,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.17
+dev,89928449,01/03/2024,Amazon Textract 1,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,0.18
+dev,89928449,01/03/2024,Amazon Textract 3,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,0.46
+dev,89928449,01/03/2024,Amazon Textract 3,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,0.89
+dev,83001455,01/03/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.97
+dev,83001455,01/03/2024,Amazon Textract 3,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.06
+dev,83001455,01/03/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.08
+dev,89928449,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.14
+dev,83001455,01/03/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.17
+dev,83001455,01/03/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.28
+dev,83001455,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.29
+dev,89928449,01/03/2024,Amazon Textract 2,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.51
+dev,83001455,01/03/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.67
+dev,89928449,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.77
+dev,83001455,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.8
+dev,83001455,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.8
+dev,89928449,01/03/2024,Amazon Textract 2,ap-south-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.93
+dev,83001455,01/03/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.95
+dev,83001455,01/03/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.04
+dev,83001455,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.22
+dev,83001455,01/03/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.28
+dev,83001455,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.32
+dev,89928449,01/03/2024,Amazon Textract 2,ap-south-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,2.33
+dev,89928449,01/03/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,2.66
+Innovation,95317744,01/03/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,45.85
+Innovation,11519995,01/03/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,56.95
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,80.32
+dev,50168945,01/03/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,84.14
+dev,25687158,01/03/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,100.35
+Innovation,54144176,01/03/2024,Amazon SageMaker more detail 1,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,116.2
+dev,32174238,01/03/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,124.81
+dev,50168945,01/03/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,128.63
+dev,32174238,01/03/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,130.27
+dev,50168945,01/03/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,141.31
+Innovation,45260537,01/03/2024,Amazon SageMaker more detail 1,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,147.27
+dev,32174238,01/03/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,153.8
+dev,50168945,01/03/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,157.18
+dev,50168945,01/03/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,160.75
+Innovation,45260537,01/03/2024,Amazon SageMaker more detail 1,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,164.65
+dev,25687158,01/03/2024,Amazon SageMaker more detail 2,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,184.38
+dev,32174238,01/03/2024,Amazon SageMaker more detail 2,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,208.75
+prod,50168945,01/03/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,211.2
+prod,50168945,01/03/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,211.95
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,222.03
+Innovation,95317744,01/03/2024,Amazon SageMaker more detail 2,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,223.28
+Innovation,45260537,01/03/2024,Amazon SageMaker more detail 3,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,237.47
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,244.47
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,250.25
+dev,50168945,01/03/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,252.52
+dev,50168945,01/03/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,259.47
+dev,50168945,01/03/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,299.58
+Innovation,85490345,01/03/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,301.8
+dev,25687158,01/03/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,302.17
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 3,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,321.16
+Innovation,95317744,01/03/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,331.69
+dev,32174238,01/03/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,341.4
+dev,32174238,01/03/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,349.54
+dev,50168945,01/03/2024,Amazon Rekognition more detail 3,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,388.76
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,400.75
+Innovation,95317744,01/03/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,414.33
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 4,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,417.67
+Innovation,11519995,01/03/2024,Amazon Rekognition more detail 4,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,434.26
+pre-prod,50168945,01/03/2024,Amazon Rekognition more detail 4,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,446.45
+dev,50168945,01/03/2024,Amazon Rekognition more detail 4,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,448.9
+prod,50168945,01/03/2024,Amazon Rekognition more detail 4,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,449.21
+Innovation,85490345,01/03/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,463.76
+dev,25687158,01/03/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,497.69
+Innovation,85490345,01/03/2024,Amazon SageMaker more detail 5,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,552.79
+Innovation,54144176,01/03/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,617.84
+Innovation,95317744,01/03/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,619.09
+Innovation,45260537,01/03/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,640.69
+dev,32174238,01/03/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,663.9
+Innovation,85490345,01/03/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,692.34
+Innovation,95317744,01/03/2024,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,711.5
+Innovation,95317744,01/03/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,717.31
+dev,32174238,01/03/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,777.58
+Innovation,85490345,01/03/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,800.58
+dev,32174238,01/03/2024,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,830.35
+dev,25687158,01/03/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,863.69
+Innovation,54144176,01/03/2024,Amazon SageMaker more detail 6,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,948
+dev,89928449,01/04/2024,Amazon Textract 1,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,0.18
+dev,29122633,01/04/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.4
+dev,29122633,01/04/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.47
+dev,89928449,01/04/2024,Amazon Textract 3,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,0.66
+dev,89928449,01/04/2024,Amazon Textract 3,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,0.8
+dev,29122633,01/04/2024,Amazon Textract 3,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.97
+dev,89928449,01/04/2024,Amazon Textract 3,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.01
+dev,89928449,01/04/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.25
+dev,89928449,01/04/2024,Amazon Textract 2,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.42
+dev,89928449,01/04/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.52
+dev,29122633,01/04/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.6
+dev,29122633,01/04/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.75
+dev,29122633,01/04/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.03
+dev,89928449,01/04/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,2.12
+dev,29122633,01/04/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.53
+dev,89928449,01/04/2024,Amazon Textract 2,eu-west-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,2.72
+dev,25687158,01/04/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,23.59
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,27.1
+prod,50168945,01/04/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,42.22
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,43.93
+Innovation,85490345,01/04/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,50.88
+prod,50168945,01/04/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,54.42
+Innovation,95317744,01/04/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,81.43
+dev,89928449,01/04/2024,Amazon Rekognition more detail 2,ap-south-1,Amazon Rekognition,Amazon,,,Treasury,Treasury Foundation,90.62
+prod,50168945,01/04/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,94.81
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,102.55
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,107.08
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,119.24
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,119.85
+Innovation,95317744,01/04/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,129.49
+dev,25687158,01/04/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,135.99
+dev,32174238,01/04/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,150.3
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,158.52
+dev,25687158,01/04/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,160.71
+Innovation,95317744,01/04/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,165.54
+prod,50168945,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,167.93
+Innovation,54144176,01/04/2024,Amazon SageMaker more detail 1,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,170.42
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,187.71
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,191.15
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,214.43
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,221.88
+prod,50168945,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,223.41
+Innovation,45260537,01/04/2024,Amazon SageMaker more detail 2,(not set),Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,232.07
+dev,89928449,01/04/2024,Amazon Rekognition more detail 2,ap-south-1,Amazon Rekognition,Amazon,,,Treasury,Treasury Foundation,257.63
+Innovation,11519995,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,258.33
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,258.51
+dev,50168945,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,284.31
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,294.26
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,297.64
+Innovation,11519995,01/04/2024,Amazon Rekognition more detail 3,us-east-1,Amazon Rekognition,Amazon,,,MIB,Global Development,322.68
+dev,32174238,01/04/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,324.99
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,356.52
+dev,32174238,01/04/2024,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,382.99
+pre-prod,50168945,01/04/2024,Amazon Rekognition more detail 4,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,428.63
+Innovation,45260537,01/04/2024,Amazon SageMaker more detail 4,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,435.31
+Innovation,85490345,01/04/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,437.24
+dev,25687158,01/04/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,447.43
+Innovation,45260537,01/04/2024,Amazon SageMaker more detail 4,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,456.83
+prod,50168945,01/04/2024,Amazon Rekognition more detail 4,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,459.39
+Innovation,95317744,01/04/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,484.38
+Innovation,95317744,01/04/2024,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,500.54
+dev,32174238,01/04/2024,Amazon SageMaker more detail 4,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,500.67
+Innovation,54144176,01/04/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,532.36
+dev,32174238,01/04/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,554.36
+Innovation,95317744,01/04/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,585.64
+dev,32174238,01/04/2024,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,651.65
+Innovation,95317744,01/04/2024,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,686.72
+Innovation,85490345,01/04/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,722.34
+dev,25687158,01/04/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,743.46
+Innovation,85490345,01/04/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,755.47
+dev,32174238,01/04/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,778
+Innovation,85490345,01/04/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,797.91
+Innovation,54144176,01/04/2024,Amazon SageMaker more detail 6,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,872.25
+dev,29122633,01/05/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.3
+dev,99263537,01/05/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,The Forecast Foundary,0.35
+dev,29122633,01/05/2024,Amazon Textract 3,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.47
+dev,29122633,01/05/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.83
+dev,99263537,01/05/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,The Forecast Foundary,1.01
+dev,29122633,01/05/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.1
+dev,89928449,01/05/2024,Amazon Textract 2,ap-south-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.21
+dev,29122633,01/05/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.27
+dev,99263537,01/05/2024,Amazon Textract 2,ap-southeast-1,Amazon Textract,Amazon,,,TE Tech,The Forecast Foundary,1.38
+dev,89928449,01/05/2024,Amazon Textract 2,ap-south-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.41
+dev,89928449,01/05/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.54
+dev,29122633,01/05/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.56
+dev,99263537,01/05/2024,Amazon Textract 2,ap-southeast-1,Amazon Textract,Amazon,,,TE Tech,The Forecast Foundary,1.71
+dev,89928449,01/05/2024,Amazon Textract 2,ap-south-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,1.93
+dev,99263537,01/05/2024,Amazon Textract 2,ap-southeast-1,Amazon Textract,Amazon,,,TE Tech,The Forecast Foundary,2.01
+dev,29122633,01/05/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.03
+dev,29122633,01/05/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.27
+dev,29122633,01/05/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.3
+dev,29122633,01/05/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.31
+dev,29122633,01/05/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,2.33
+dev,99263537,01/05/2024,Amazon Textract 2,ap-southeast-1,Amazon Textract,Amazon,,,TE Tech,The Forecast Foundary,2.49
+dev,99263537,01/05/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,The Forecast Foundary,2.68
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,31.71
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,38.61
+prod,50168945,01/05/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,48.82
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,59.04
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,59.99
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,71.96
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,76.33
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,84.62
+Innovation,95317744,01/05/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,100.66
+dev,25687158,01/05/2024,Amazon SageMaker more detail 1,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,145.86
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,158.89
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,161.65
+Innovation,95317744,01/05/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,170.86
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,175.34
+Innovation,54144176,01/05/2024,Amazon SageMaker more detail 2,(not set),Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,177.06
+Innovation,95317744,01/05/2024,Amazon SageMaker more detail 2,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,177.14
+dev,25687158,01/05/2024,Amazon SageMaker more detail 2,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,191.08
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,195.12
+dev,32174238,01/05/2024,Amazon SageMaker more detail 2,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,196.13
+dev,50168945,01/05/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,198.88
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,204.68
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,208.02
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,217.85
+dev,32174238,01/05/2024,Amazon SageMaker more detail 2,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,223.07
+prod,50168945,01/05/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,233.63
+Innovation,85490345,01/05/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,238.48
+dev,25687158,01/05/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,267.22
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,276.52
+prod,50168945,01/05/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,289.83
+dev,50168945,01/05/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,299.8
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,303.41
+prod,50168945,01/05/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,308.23
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 3,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,315.5
+dev,50168945,01/05/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,320.4
+dev,50168945,01/05/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,333.04
+Innovation,95317744,01/05/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,341.24
+dev,32174238,01/05/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,346.24
+prod,50168945,01/05/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,382.41
+dev,50168945,01/05/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,387.16
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,389.39
+Innovation,85490345,01/05/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,412.72
+dev,50168945,01/05/2024,Amazon Rekognition more detail 4,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,416.76
+prod,50168945,01/05/2024,Amazon Rekognition more detail 4,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,428.79
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 4,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,440.27
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 4,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,455.31
+pre-prod,50168945,01/05/2024,Amazon Rekognition more detail 4,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,457.95
+Innovation,95317744,01/05/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,480.55
+Innovation,95317744,01/05/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,United America,Margin Masters,482.4
+dev,25687158,01/05/2024,Amazon SageMaker more detail 5,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,534.45
+Innovation,45260537,01/05/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,543.9
+Innovation,54144176,01/05/2024,Amazon SageMaker more detail 5,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,577.02
+Innovation,85490345,01/05/2024,Amazon SageMaker more detail 5,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,606.56
+dev,25687158,01/05/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,624.97
+Innovation,85490345,01/05/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,717.59
+dev,32174238,01/05/2024,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,731.25
+Innovation,85490345,01/05/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Global United Kingdon,The Ledger League,734.88
+Innovation,45260537,01/05/2024,Amazon SageMaker more detail 6,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,769.29
+Innovation,54144176,01/05/2024,Amazon SageMaker more detail 6,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,795.75
+Innovation,45260537,01/05/2024,Amazon SageMaker more detail 6,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,823.53
+dev,32174238,01/05/2024,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,857.76
+Innovation,95317744,01/05/2024,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,United America,Margin Masters,918.25
+Innovation,75202956,01/06/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Treasury,Treasury Foundation,0
+Innovation,75202956,01/06/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Treasury,Treasury Foundation,0.01
+Innovation,75202956,01/06/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Treasury,Treasury Foundation,0.01
+Innovation,92944343,01/06/2024,Amazon Bedrock more detail 3,us-east-1,Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0.01
+Innovation,75202956,01/06/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Treasury,Treasury Foundation,0.01
+Innovation,92944343,01/06/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0.01
+Innovation,92944343,01/06/2024,Amazon Bedrock more detail 3,us-east-1,Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0.01
+Innovation,92944343,01/06/2024,Amazon Bedrock more detail 3,(not set),Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0.01
+dev,29122633,01/06/2024,Amazon Textract 1,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.25
+dev,29122633,01/06/2024,Amazon Textract 3,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.75
+dev,89928449,01/06/2024,Amazon Textract 3,ap-south-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,0.84
+dev,29122633,01/06/2024,Amazon Textract 3,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,0.86
+dev,29122633,01/06/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.45
+dev,29122633,01/06/2024,Amazon Textract 2,eu-west-2,Amazon Textract,Amazon,,,TE Tech,Risk Regulators,1.47
+dev,89928449,01/06/2024,Amazon Textract 2,(not set),Amazon Textract,Amazon,,,Treasury,Treasury Foundation,2.13
+dev,89928449,01/06/2024,Amazon Textract 2,ap-south-1,Amazon Textract,Amazon,,,Treasury,Treasury Foundation,2.45
+dev,32174238,01/06/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,29.19
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,39.66
+prod,50168945,01/06/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,41.99
+dev,50168945,01/06/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,58.71
+prod,50168945,01/06/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,67.66
+dev,50168945,01/06/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,80.95
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,88.87
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,95.41
+prod,50168945,01/06/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,115.25
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,135.81
+dev,50168945,01/06/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,142.8
+Innovation,45260537,01/06/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,146.83
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 1,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,151.29
+dev,50168945,01/06/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,154.03
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,160.04
+dev,50168945,01/06/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,168.28
+dev,50168945,01/06/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,198.08
+prod,50168945,01/06/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,205.41
+dev,50168945,01/06/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,238.26
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,306.48
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 3,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,307.19
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,313.17
+dev,25687158,01/06/2024,Amazon SageMaker more detail 3,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,334.69
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 3,eu-west-2,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,372.78
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 3,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,378.3
+prod,50168945,01/06/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,384.91
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,386.5
+dev,50168945,01/06/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,395.02
+dev,50168945,01/06/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,395.87
+dev,50168945,01/06/2024,Amazon Rekognition more detail 3,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,408.41
+pre-prod,50168945,01/06/2024,Amazon Rekognition more detail 4,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,425.27
+prod,50168945,01/06/2024,Amazon Rekognition more detail 4,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,437.39
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 4,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,515.42
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,528.26
+dev,32174238,01/06/2024,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,548.08
+dev,32174238,01/06/2024,Amazon SageMaker more detail 5,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,569.64
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 5,eu-west-2,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,587.73
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,595.05
+dev,32174238,01/06/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,642.11
+dev,25687158,01/06/2024,Amazon SageMaker more detail 5,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,655.18
+Innovation,45260537,01/06/2024,Amazon SageMaker more detail 5,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,667.08
+dev,25687158,01/06/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,731.37
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 6,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,740.23
+dev,25687158,01/06/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,752.93
+dev,25687158,01/06/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,790.32
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 6,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,817.98
+dev,32174238,01/06/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,863.7
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 6,eu-west-2,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,919.72
+Innovation,92944343,01/06/2024,Amazon SageMaker more detail 6,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,948.18
+Innovation,45260537,01/06/2024,Amazon SageMaker more detail 6,us-east-1,Amazon SageMaker,Amazon,,,TE Tech,Risk Regulators,954.13
+Innovation,92944343,01/07/2024,Amazon Bedrock more detail 3,us-east-1,Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0
+Innovation,92944343,01/07/2024,Amazon Bedrock more detail 3,us-east-1,Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0
+Innovation,75202956,01/07/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Treasury,Treasury Foundation,0.01
+Innovation,92944343,01/07/2024,Amazon Bedrock more detail 3,(not set),Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0.01
+Innovation,92944343,01/07/2024,Amazon Bedrock more detail 3,us-east-1,Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0.01
+Innovation,75202956,01/07/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Treasury,Treasury Foundation,0.01
+Innovation,75202956,01/07/2024,Amazon Bedrock more detail 2,us-east-1,Amazon Bedrock,Amazon,,,Treasury,Treasury Foundation,0.02
+Innovation,92944343,01/07/2024,Amazon Bedrock more detail 3,(not set),Amazon Bedrock,Amazon,,,Legal Department,Alpha Architects,0.02
+Innovation,75202956,01/07/2024,AWS Comprehend 2,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,5.28
+Innovation,75202956,01/07/2024,AWS Comprehend 2,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,6.42
+Innovation,75202956,01/07/2024,AWS Comprehend 1,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,6.88
+Innovation,75202956,01/07/2024,AWS Comprehend 2,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,6.93
+Innovation,75202956,01/07/2024,AWS Comprehend 1,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,7.32
+Innovation,75202956,01/07/2024,AWS Comprehend 2,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,7.63
+Innovation,75202956,01/07/2024,AWS Comprehend 1,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,7.89
+Innovation,75202956,01/07/2024,AWS Comprehend 1,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,8.2
+Innovation,75202956,01/07/2024,AWS Comprehend 2,eu-west-2,Amazon Comprehend,Amazon,,,Treasury,Treasury Foundation,9.28
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,28.59
+dev,32174238,01/07/2024,Amazon SageMaker more detail 1,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,30.46
+Innovation,54144176,01/07/2024,Amazon SageMaker more detail 1,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,39.25
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 1,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,73.69
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,83.68
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,93.6
+prod,50168945,01/07/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,94.88
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,119.25
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,134.59
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 1,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,138.68
+prod,50168945,01/07/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,142.99
+Innovation,54144176,01/07/2024,Amazon SageMaker more detail 1,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,164.58
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,176.09
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,179.55
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,185.32
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,188.23
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,193.64
+dev,50168945,01/07/2024,Amazon Rekognition more detail 2,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,193.66
+prod,50168945,01/07/2024,Amazon Rekognition more detail 2,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,198.7
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 3,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,236.62
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 2,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,256.23
+prod,50168945,01/07/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,282.01
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 2,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,287.68
+dev,50168945,01/07/2024,Amazon Rekognition more detail 3,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,294.95
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,295.93
+prod,50168945,01/07/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,303.65
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 3,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,318.96
+dev,32174238,01/07/2024,Amazon SageMaker more detail 3,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,320.53
+prod,50168945,01/07/2024,Amazon Rekognition more detail 3,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,329.61
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 3,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,342.29
+Innovation,54144176,01/07/2024,Amazon SageMaker more detail 3,eu-west-1,Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,370.97
+prod,50168945,01/07/2024,Amazon Rekognition more detail 3,ap-southeast-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,384.63
+prod,50168945,01/07/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,393.04
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,399.91
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 3,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,402.57
+dev,25687158,01/07/2024,Amazon SageMaker more detail 4,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,403.45
+dev,25687158,01/07/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,411.27
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 4,(not set),Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,412.07
+prod,50168945,01/07/2024,Amazon Rekognition more detail 4,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,437.67
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 4,eu-west-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,454.45
+pre-prod,50168945,01/07/2024,Amazon Rekognition more detail 4,us-east-1,Amazon Rekognition,Amazon,,,Treasury,Capital Catalysts,457.17
+dev,25687158,01/07/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,472.72
+dev,32174238,01/07/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,479.24
+dev,32174238,01/07/2024,Amazon SageMaker more detail 4,(not set),Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,481.66
+dev,25687158,01/07/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,743.53
+dev,32174238,01/07/2024,Amazon SageMaker more detail 6,ap-east-1,Amazon SageMaker,Amazon,,,Treasury,Treasury Finance,817.26
+dev,25687158,01/07/2024,Amazon SageMaker more detail 6,us-east-2,Amazon SageMaker,Amazon,,,Treasury,Treasury Foundation,849.18
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,918.69
+Innovation,92944343,01/07/2024,Amazon SageMaker more detail 6,us-east-1,Amazon SageMaker,Amazon,,,Legal Department,Alpha Architects,939.86
+Innovation,54144176,01/07/2024,Amazon SageMaker more detail 6,(not set),Amazon SageMaker,Amazon,,,SecuroSave,SecuroSave Lite,953.89
