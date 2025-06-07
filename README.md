@@ -45,4 +45,4 @@ All company specific information has been removed. Spend figures and account ide
 
 ## Author
 Ashraf Sanni– Cloud FinOps Data Engineer  
-[LinkedIn](www.linkedin.com/in/ashraf-tobi-sanni-14769521a) | [GitHub]( atshuncho)
+[LinkedIn]( https://www.linkedin.com/in/ashraf-tobi-sanni-14769521a) | [GitHub]( atshuncho)
